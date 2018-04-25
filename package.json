@@ -19,5 +19,6 @@
   "homepage": "https://github.com/abemco/liri-node-app#readme",
   "dependencies": {
     "dotenv": "^5.0.1"
-  }
+  },
+  "devDependencies": {}
 }
